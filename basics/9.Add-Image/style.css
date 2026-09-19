@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: rgb(233, 217, 207);
+    margin: 50px;
+}
+
+h1{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:brown;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+img{
+    border-radius:100%;
+}
+
+#selector-text{
+    font-weight:bold;
+    font-size:40px;
+}

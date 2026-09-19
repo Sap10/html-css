@@ -1,0 +1,1 @@
+*If we apply text-align:center; to any element then it not align the element to center. It align the content of the element to the center. For the image tag the content is void that's why the text-align:center; isn't work for image*

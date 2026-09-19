@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family:"Oswald", sans-serif;
+    margin:50px;
+    background-color: rgb(195, 98, 75);
+}
+
+img{
+    border-radius:100%;
+}
+
+a{
+    text-decoration: none;
+    color:brown;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+#first-line{
+    font-weight:bold;
+    font-size:40px;
+}
