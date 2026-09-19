@@ -1,0 +1,14 @@
+body{
+    margin: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin:10px;
+}
