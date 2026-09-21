@@ -5,10 +5,25 @@ body{
     background-color: blanchedalmond;
 }
 
+a{
+    text-decoration: none;
+    background-color: rgb(167, 1, 78);
+    color:aliceblue;
+    border-radius: 4px;
+    font-size: 24px;
+}
+
+a:hover{
+    text-decoration: none;
+    background-color: rgb(180, 12, 90);
+}
+
 ul{
     list-style: none;
 }
 
 li{
+    background-color: rgb(223, 136, 124);
+    border-radius: 6px;
     margin:10px;
 }
